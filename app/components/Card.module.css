@@ -1,0 +1,83 @@
+.card {
+  background: #05e8e1;
+  border-radius: 16px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+  height: 100%; 
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+}
+
+.description {
+  padding-top: 20px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.name {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2rem;
+  padding-top: 20px;
+}
+
+.image {
+  width: 100%;           
+  height: 200px;         
+  object-fit: cover;     
+  border-radius: 8px; 
+}
+
+.audioWrapper {
+  width: 100%;
+  margin-top: auto; 
+  border-radius: 12px;
+  overflow: hidden; 
+  padding: 8px 0;
+}
+
+.audioPlayer {
+  width: 100%;
+  height: 150px; 
+  border: none;
+  display: block;
+}
+
+.embedWrapper {
+  width: 100%;
+  padding: 8px 0;
+}
+
+.embedPlayer {
+  border-radius: 8px;
+  display: block;
+}
+
+.videoWrapper {
+  width: 100%;
+  padding: 8px 0;
+}
+
+.videoPlayer {
+  border-radius: 8px;
+  display: block;
+}
+
+@media (max-width: 480px) {
+  .name {
+    font-size: 1.5rem; 
+    padding-top: 10px;
+  }
+  
+  .card {
+    padding: 1rem; 
+  }
+}
