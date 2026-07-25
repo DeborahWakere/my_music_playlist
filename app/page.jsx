@@ -6,25 +6,23 @@ import Card from "./components/Playlist";
 import Footer from "./components/Footer";
 
 export default function App() {
-  const CLOUD_AUDIO_BASE = "https://cloudinary.com";
+  const BLOB_BASE_URL = "https://your_unique_store_://vercel-storage.com";
 
   return (
     <>
-     <Navbar />
-     <div id="hero">
+      <Navbar />
+      <div id="hero">
         <Hero />
-     </div>
+      </div>
 
       <h2>Your Playlist</h2>
       <div id="Playlist" className="playlist-grid">
         {Songs.map((song) => {
-          let cleanFileName = song.audioUrl ? song.audioUrl.replace("/audio/", "") : "";
-          
-          cleanFileName = cleanFileName.replaceAll(" ", "-");
+          const cleanFileName = song.audioUrl ? song.audioUrl.replace("/audio/", "") : "";
           
           const encodedFileName = encodeURIComponent(cleanFileName);
           
-          const liveStreamingUrl = cleanFileName ? `${CLOUD_AUDIO_BASE}/${encodedFileName}` : "";
+          const liveStreamingUrl = cleanFileName ? `${BLOB_BASE_URL}/${encodedFileName}` : "";
 
           return (
             <Card
@@ -32,7 +30,7 @@ export default function App() {
               image={song.image}
               name={song.name}
               description={song.description}
-              audioUrl={liveStreamingUrl} 
+              audioUrl={liveStreamingUrl}
             />
           );
         })}
