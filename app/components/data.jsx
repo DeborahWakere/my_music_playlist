@@ -4,7 +4,7 @@ export const Songs = [
     image: "/images/oba.jpeg",
     name: "Oba Awon Oba",
     description: "Sung by Prophetess Deborah. This majestic track impacts the listener by shifting focus to the sovereignty of God, breaking chains of doubt with its powerful declaration of the King of Kings.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    audioUrl: "/audio/Oba Awon Oba.mp3"
   },
   {
     id: 2,
@@ -25,21 +25,21 @@ export const Songs = [
     image: "/images/here-for-you.jpg",
     name: "Here for you",
     description: "Sung by Dunsin Oyekan. This powerful worship track impacts the listener by creating a deep atmosphere of intimacy, inviting a profound personal connection with the divine through its moving melodies.",
-    embedUrl: "/audio/Here For You _ Emali.mp4"
+    audioUrl: "/audio/Here For You _ Emali.mp3"
   },
   {
     id: 5,
     image: "/images/no-me-without-you.jpg",
     name: "No me without you",
     description: "Sung by Dunsin and Theophilus Sunday. This deeply spiritual track impacts the listener by emphasizing absolute surrender and dependence on God, drawing hearts into a state of quiet, prayerful reflection..",
-    videoUrl: "/audio/No Me Without You - Dunsin Oyekan.mp4"
+    audioUrl: "/audio/no-me-without-you.mp3"
   },
   {
     id: 6,
     image: "/images/my-daddy.jpeg",
     name: "My Daddy",
     description: "Sung by Tim Godfrey and the Fearless Community. This energetic, high-vibe Nigerian Afro-gospel anthem impacts the listener by building an atmosphere of infectious gratitude. It powerfully shifts focus toward God's role as a loving, reliable provider—encouraging believers to dance away their worries and proudly celebrate their identity as children of God.",
-    videoUrl: "/audio/Tim Godfrey & Fearless Community - My Daddy.mp4"
+    audioUrl: "/audio/mydaddy.mp3"
   },
   {
     id: 7,
