@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# Block heavy media assets from filling up your GitHub space
+public/audio/
+*.mp3
+*.mp4
+*.wav
+*.mov

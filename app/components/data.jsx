@@ -11,146 +11,153 @@ export const Songs = [
     image: "/images/Ni-Maombi-ni-maombi.jpg",
     name: "Ni maombi Ni Maombi",
     description: "Sung by Sounds of Afrika. This live choral version impacts listeners by bringing a unified, communal power to the prayer, making it feel like an entire congregation is standing in intercession with you.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    audioUrl: "/audio/Ni Maombi Ni Maombi Sounds of Afrika.mp3"
   },
   {
     id: 3,
-    image: "/images/natamani-kufanana-nawe.jpg",
-    name: "Natamani Kufanana Nawe",
-    description: "Sung by Sounds of Afrika. This beautiful live choral track impacts the listener by turning a deeply personal cry for Christ-like character into a massive, unified declaration of devotion, shifting the atmosphere of the room into one of corporate humility and complete surrender",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/ameniona.jpeg",
+    name: "Ameniona",
+    description: "Sung by Bella Kombo and Zoravo. This beautiful live choral track impacts the listener by turning a deeply personal cry for Christ-like character into a massive, unified declaration of devotion, shifting the atmosphere of the room into one of corporate humility and complete surrender.",
+    audioUrl: "/audio/Bella Kombo ft. Zoravo - Ameniona (Official Live Video).mp3"
   },
   {
     id: 4,
-    image: "/images/pamoja-na-wewe.jpeg",
-    name: "Pamoja Na Wewe",
-    description: "Sung by Essence of Worship. This intimate song impacts listeners by providing profound spiritual comfort, reassuring weary souls that they never walk through life's trials alone.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/here-for-you.jpg",
+    name: "Here for you",
+    description: "Sung by Dunsin Oyekan. This powerful worship track impacts the listener by creating a deep atmosphere of intimacy, inviting a profound personal connection with the divine through its moving melodies.",
+    embedUrl: "/audio/Here For You _ Emali.mp4"
   },
   {
     id: 5,
-    image: "/images/ombi-langu.jpeg",
-    name: "Ombi Langu Bwana Wangu",
-    description: "Sung by Domitilah Mwikali. A deeply intense petition that impacts the room by creating a protective, focused atmosphere perfect for heavy, personal evening prayers.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/no-me-without-you.jpg",
+    name: "No me without you",
+    description: "Sung by Dunsin and Theophilus Sunday. This deeply spiritual track impacts the listener by emphasizing absolute surrender and dependence on God, drawing hearts into a state of quiet, prayerful reflection..",
+    videoUrl: "/audio/No Me Without You - Dunsin Oyekan.mp4"
   },
   {
     id: 6,
     image: "/images/my-daddy.jpeg",
     name: "My Daddy",
     description: "Sung by Tim Godfrey and the Fearless Community. This energetic, high-vibe Nigerian Afro-gospel anthem impacts the listener by building an atmosphere of infectious gratitude. It powerfully shifts focus toward God's role as a loving, reliable provider—encouraging believers to dance away their worries and proudly celebrate their identity as children of God.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    videoUrl: "/audio/Tim Godfrey & Fearless Community - My Daddy.mp4"
   },
   {
     id: 7,
-    image: "/images/najua-bwana.jpeg",
-    name: "Najua Bwana Anatengeneza Njia",
-    description: ": Sung by Sounds Of Afrika. This comforting gospel anthem impacts listeners by anchoring their faith during tough seasons, confidently declaring that God is actively paving a path and opening doors even when the way forward seems completely impossible.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/iba.jpeg",
+    name: "Iba",
+    description: "Sung by Nathaniel Bassey featuring Dunsin Oyekan & Dasola Akinbule. This profound Yoruba-infused worship track impacts listeners by bowing in deep reverence before the majesty of God, establishing an atmosphere of awe and surrender.",
+    audioUrl: "/audio/iba.mp3"
   },
   {
     id: 8,
     image: "/images/malebo.jpeg",
     name: "Malebo",
-    description: "Sung by Rose Muhando. This high-energy gospel track impacts listeners by sparking uncontainable praise, celebrating miraculous turnarounds from deep hardship to victory.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    description: "Sung by Pst. Faustin S. Munishi. This classic East African gospel track impacts listeners by using an engaging storytelling narrative to deliver a heartfelt call for personal salvation and transformation.",
+    audioUrl: "/audio/AUD-20260724-WA0002.mp3"
   },
   {
     id: 9,
-    image: "/images/yebo.jpeg",
-    name: "Yebo",
-    description: "Sung by the popular Rwandan gospel duo Vestine and Dorcas. This powerful Swahili worship song impacts listeners by cultivating complete surrender, comforting the soul with the assurance that God will rule ('Nitawale') over every circumstance and difficult season.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/kadosh.jpeg",
+    name: "Kadosh",
+    description: "Sung by PV Idemudia. This powerful, heavenly anthem impacts listeners by echoing the timeless cry of the angels proclaiming God's absolute holiness, pulling everyone in the room into a deep place of corporate worship.",
+    audioUrl: "/audio/THE-KADOSH .mp3"
   },
   {
     id: 10,
-    image: "/images/pale-kilele.jpeg",
-    name: "Pale Kilele",
-    description: "Sung by Dr. Sarah K & Shachah Team. This prophetic mountain-top anthem impacts listeners by renewing their endurance to finish the spiritual race strong and reach new heights.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/Bwana-nimerudi tena.jpg",
+    name: "Nimerudi Tena",
+    description: "Sung by Praise Team TAG Forest Ya Kwanza. This beautiful Swahili praise track impacts listeners by delivering a message of grateful return, offering heartfelt appreciation to God for His enduring faithfulness and purifying sacrifice through all seasons of life.",
+    audioUrl: "/audio/BWANA-NIMERUDI-TENA.mp3"
   },
   {
     id: 11,
-    image: "/images/sikiliza-dunia.jpeg",
-    name: "Sikiliza dunia",
-    description: "Sung by Israel Mbonyi. This heavenly track impacts listeners by loosening their attachment to worldly things, creating a powerful realization that our true home is in the Book of Life.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/be-lifted.jpeg",
+    name: "Oh Be Lifted All Glourious God",
+    description: "Sung by MOGmusic. This majestic adoration anthem impacts listeners by elevating the supremacy and holiness of God, transforming the room into a deep sanctuary of awe, worship, and total reverence.",
+    audioUrl: "/audio/oh-BE-LIFTED_ALL-GLORIOUS-GOD.mp3"
   },
   {
     id: 12,
     image: "/images/nena.jpeg",
     name: "Nena",
     description: "Sung by Karura Voices from Karura Community Chapel. This powerful prayer track impacts the room by creating a holy stillness, comforting listeners as they invite the Holy Spirit to directly speak ('Nena') over their life.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    audioUrl: "/audio/AUD-20260724-WA0004.mp3"
   },
   {
     id: 13,
-    image: "/images/prophecy.jpeg",
-    name: "There is Prophecy Over Me",
-    description: "Sung by 1Spirit and Theophilus Sunday. This deep, warfare-style prophetic prayer chant impacts the listener by igniting absolute spiritual determination, breaking through stagnation, and empowering believers to boldly declare that they cannot fail the destiny God has spoken over their lives.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/yahweh-sabaoth.jpg",
+    name: "Yahweh-sabaoth",
+    description: "Sung by 1Spirit and Theophilus Sunday. This deep, warfare-style prophetic prayer chant impacts the listener by igniting absolute spiritual determination, empowering believers to boldly declare divine victory over stagnation.",
+    audioUrl: "/audio/Yahweh Sabaoth _ Nathaniel Bassey.mp3"
   },
   {
     id: 14,
-    image: "/images/karibu-roho.jpeg",
-    name: "Karibu Roho Fanya mapenzi ya Bwana",
-    description: "Sung by Minister James. This welcoming, deep Swahili prayer track impacts personal and collective spaces by creating a profound atmosphere of spiritual surrender, inviting the Holy Spirit to move freely and do His perfect divine will.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/nimekutana-na-wewe.jpeg",
+    name: "Nimekutana na Wewe",
+    description: "Sung by Jeremy Jeradi. This welcoming, deep Swahili prayer track impacts personal and collective spaces by creating a profound atmosphere of spiritual surrender, inviting the Holy Spirit to move freely.",
+    audioUrl: "/audio/Jeremy-Jeradi-Nimekutana Nawewe.mp3"
   },
   {
     id: 15,
-    image: "/images/nimepakwa-mafuta-mabichi.jpeg",
-    name: "Nimepakwa mafuta mabichi",
-    description: "Sung by Kestin Mbogo (recorded live at the International Christian Centre). This powerful Swahili declaration track impacts listeners by building immense spiritual confidence, anchoring the soul in the truth that they are anointed ('Nimepakwa') and heavily backed by God to conquer any challenge.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/rejesha.jpeg",
+    name: "Rejesha",
+    description: "Sung by Njoki Munyi. This powerful Swahili declaration track impacts listeners by building immense spiritual confidence, anchoring the soul in the truth that they are heavily backed by God to conquer any challenge and reclaim what was lost.",
+    audioUrl: "/audio/Rejesha.mp3"
   },
   {
     id: 16,
     image: "/images/adullam.jpeg",
     name: "Adullam",
     description: "Sung by Sharon Umola Amana. Driven by powerful, rhythmic African drumming, this deep prophetic chant impacts the listener by establishing a raw atmospheric refuge, comforting weary hearts while stirring up a fiery spirit of perseverance and deep spiritual awakening.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    audioUrl: "/audio/Adullam.mp3"
   },
   {
     id: 17,
     image: "/images/give-me-oil.jpeg",
     name: "Give Me Oil in my Lamp",
     description: "Sung by Ghanaian worship leader Joe Mettle featuring Sandra Boakye-Duah. This powerful, intimate live worship ballad impacts listeners by creating a atmosphere of deep devotion, stirring up a strong spiritual desire to keep your daily prayer altar burning bright.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    audioUrl: "/audio/Give Me Oil.mp3"
   },
   {
     id: 18,
-    image: "/images/kumama.jpeg",
-    name: "Give Me Oil in my Lamp",
-    description: "Sung by Grace Lokwa. This beautiful track from his debut album impacts the soul by drawing the believer into an overwhelming awe of God's raw goodness, carrying a profound sense of gratitude and honor through its traditional Lingala worship style.", 
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/eh-ya.jpg",
+    name: "EH YA YA Chant",
+    description: "This captivating, atmospheric praise chant impacts listeners by stirring pure adoration through its simple yet deeply repetitive spiritual refrains, effortlessly leading a congregation into unified worship.", 
+    audioUrl: "/audio/EH-YA-YA-EH-VICTORY-CHANT.mp3" 
   },
   {
     id: 19,
     image: "/images/oshimiri.jpeg",
     name: "Oshimiri Atata Atata",
     description: "Sung by Chidinma. A deep, flowing worship track that impacts the listener by washing away heavy burdens, immersing them in the endless, refreshing river of God's love.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    audioUrl: "/audio/Oshimiri Atata (Live).mp3"
   },
   {
     id: 20,
     image: "/images/lion-of-judah.jpeg",
     name: "Lion Of Judah",
     description: "Sung by Sheila Juma. This powerful, fiery warfare worship track impacts listeners by boldly breaking spiritual oppression, anchoring the soul in the raw power and secure protection of the ultimate Victor.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    audioUrl: "/audio/lion-of-judah.mp3"
   },
   {
     id: 21,
-    image: "/images/worship-mix.jpeg",
-    name: "Worship Mix Thrill. All in one for more than an hour",
-    description: "A seamless, non-stop musical journey, for more than one hour, designed to carry you into an extended time of prayer and deep meditation without any interruptions.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/naweza-aje-kunyamaza.jpeg",
+    name: "Nawezaje kunyamaza?",
+    description: "Sung by Dr. Ipyana. This seamless, non-stop musical journey impacts listeners by carrying them into an extended, deeply personal atmosphere of prayer and gratitude that makes it impossible to remain silent about God's wonders.",
+    audioUrl: "/audio/Dr.Ipyana - NAWEZAJE-KUNYAMAZA__NAMNA HII-SIJAONA.mp3"
   },
    {
     id: 22,
-    image: "/images/naija-worship-mix.jpeg",
-    name: "Nigeria Worship Mix Thrill. All in one for more than an hour",
-    description: "A continuous compilation of powerful, high-vibe West African sounds crafted to lift your spirit and build a heavy atmosphere of corporate praise.",
-    embedUrl: "https://www.boomplay.com/embed/EQsNkquHKLBSsjYNsLDf3DtK/MUSIC"
+    image: "/images/niseme-nini.jpg",
+    name: "Niseme Nini?",
+    description: "Sung by Dr. Ipyana. This beautiful Swahili thanksgiving anthem impacts listeners by reflecting on unexplainable blessings, shifting the room into a deep space of personal praise and heartfelt appreciation.",
+    audioUrl: "/audio/Dr.Ipyana-Niseme Nini.mp3"
+  },
+  {
+    id: 23,
+    image: "/images/baruch-hashem-adonai.jpg",
+    name: "Baruch Hashem Adonai",
+    description: "Sung by Dunsin Oyekan featuring Theophilus Sunday. This powerful, spontaneous live prayer chant impacts listeners by looping a profound declaration of God's holiness, driving the congregation into intense prophetic worship.",
+    audioUrl: "/audio/BARUCH HASHEM ADONAI.mp3"
   },
 ];

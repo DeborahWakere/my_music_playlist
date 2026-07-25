@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import { Songs } from "./components/data";
 import Card from "./components/Playlist";
+import Footer from "./components/Footer"
 
 export default function App() {
   return (
@@ -26,6 +27,8 @@ export default function App() {
           />
         ))}
       </div>
+
+      <Footer />
 
     </>
   )
