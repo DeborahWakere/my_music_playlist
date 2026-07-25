@@ -6,6 +6,9 @@ import Card from "./components/Playlist";
 import Footer from "./components/Footer"
 
 export default function App() {
+
+  const CLOUD_AUDIO_BASE = "https://cloudinary.com";
+
   return (
     <>
      <Navbar />
